@@ -1,7 +1,5 @@
 {
-  "name": "prelaunchre",
+  "name": "prelaunchr",
   "description": "Get in the game",
   "repository": "https://github.com/correawebdesign/prelaunchr",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["correa", "prelaunchr", "here"]
 }

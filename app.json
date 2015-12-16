@@ -10,5 +10,8 @@
         "is",
         "here"
     ],
+    "scripts": {
+        "postdeploy": "bundle exec rake bootstrap, "
+    },
     "generator": "https://www.expeditedssl.com/heroku-button-maker"
 }

@@ -1,10 +1,10 @@
 {
     "name": "Prelaunchr",
     "description": "This is not a test",
-    "website": "correatest.herokuapp.com",
+    "website": "http://correatest.herokuapp.com",
     "repository": "https://github.com/correawebdesign/prelaunchr",
     "logo": "https://github.com/correawebdesign/prelaunchr/blob/master/app/assets/images/refer/logo.png",
-    "success_url": "correatest.herokuapp.com",
+    "success_url": "http://correatest.herokuapp.com",
     "keywords": [
         "correa",
         "is",

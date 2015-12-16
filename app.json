@@ -1,0 +1,11 @@
+{
+    "name": "correatest",
+    "description": "prelaunchr test",
+    "repository": "https://github.com/correawebdesign/prelaunchr",
+    "keywords": [
+        "correa",
+        "prelaunchr",
+        ""
+    ],
+    "generator": "https://www.expeditedssl.com/heroku-button-maker"
+}
